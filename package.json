@@ -59,7 +59,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "listr": "^0.14.3",
     "lodash.reduce": "^4.6.0",
-    "migrate": "^1.6.2",
+    "migrate": "^1.8.0",
     "mkdirp": "^0.5.1",
     "p-map": "^4.0.0",
     "rimraf": "^3.0.2",
